@@ -1,0 +1,73 @@
+[2023-05-08 09:16:04] [RESTART] [main] 已清除日志
+[2023-05-08 09:16:04] [INFO] [main] 生成了日志！
+[2023-05-08 09:16:04] [INFO] [main] 读取了配置，是{"switch":"on","mode":"hot","interval":40,"keyword":"\u56fd\u5bb6\u7535\u7f51"}
+[2023-05-08 09:16:16] [INFO] [main] 生成了日志！
+[2023-05-08 09:16:16] [INFO] [main] 已登出
+[2023-05-08 09:16:17] [INFO] [main] 生成了日志！
+[2023-05-08 09:16:18] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-08 09:16:18] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-08 09:16:18] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-10 06:51:22] [INFO] [main] 生成了日志！
+[2023-05-10 06:51:22] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:51:24] [INFO] [main] 生成了日志！
+[2023-05-10 06:51:24] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:51:27] [INFO] [main] 生成了日志！
+[2023-05-10 06:51:27] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:51:33] [INFO] [main] 生成了日志！
+[2023-05-10 06:51:33] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:51:35] [INFO] [main] 生成了日志！
+[2023-05-10 06:51:35] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:52:06] [INFO] [main] 生成了日志！
+[2023-05-10 06:52:06] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:52:08] [INFO] [main] 生成了日志！
+[2023-05-10 06:52:08] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:52:11] [INFO] [main] 生成了日志！
+[2023-05-10 06:52:11] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:52:39] [INFO] [main] 生成了日志！
+[2023-05-10 06:52:39] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:59:11] [INFO] [main] 生成了日志！
+[2023-05-10 06:59:11] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'StateGridpost'@'localhost' (using password: YES)
+[2023-05-10 06:59:55] [INFO] [main] 生成了日志！
+[2023-05-10 06:59:57] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-10 06:59:57] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-10 06:59:57] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-10 07:02:41] [INFO] [main] 生成了日志！
+[2023-05-10 07:02:42] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-10 07:02:42] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-10 07:02:42] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-10 07:02:43] [INFO] [main] 生成了日志！
+[2023-05-10 07:02:44] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-10 07:02:44] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-10 07:02:44] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-10 07:27:25] [INFO] [main] 生成了日志！
+[2023-05-10 07:27:26] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-10 07:27:26] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-10 07:27:26] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-10 07:28:01] [INFO] [main] 生成了日志！
+[2023-05-10 07:28:02] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-10 07:28:02] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-10 07:28:02] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-10 07:28:11] [INFO] [main] 生成了日志！
+[2023-05-10 07:28:11] [INFO] [main] 读取了配置，是{"switch":"on","mode":"hot","interval":40,"keyword":"\u56fd\u5bb6\u7535\u7f51"}
+[2023-05-10 07:28:12] [INFO] [main] 生成了日志！
+[2023-05-10 07:28:12] [INFO] [main] 读取了配置，是{"switch":"on","mode":"hot","interval":40,"keyword":"\u56fd\u5bb6\u7535\u7f51"}
+[2023-05-10 07:28:12] [INFO] [main] 生成了日志！
+[2023-05-10 07:28:12] [INFO] [main] 读取了配置，是{"switch":"on","mode":"hot","interval":40,"keyword":"\u56fd\u5bb6\u7535\u7f51"}
+[2023-05-10 07:28:25] [INFO] [main] 生成了日志！
+[2023-05-10 07:28:25] [INFO] [main] 已登出
+[2023-05-10 07:28:25] [INFO] [main] 生成了日志！
+[2023-05-10 07:28:27] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-10 07:28:27] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-10 07:28:27] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-11 06:49:52] [INFO] [main] 生成了日志！
+[2023-05-11 06:49:53] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-11 06:49:53] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-11 06:49:53] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-11 06:53:47] [INFO] [main] 生成了日志！
+[2023-05-11 06:53:48] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-11 06:53:48] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-11 06:53:48] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2023-05-11 06:53:48] [INFO] [main] 生成了日志！
+[2023-05-11 06:53:50] [INFO] [MYSQL] 成功连接了数据库。
+[2023-05-11 06:53:50] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
+[2023-05-11 06:53:50] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！

@@ -1,0 +1,249 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', '等线', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    background: #0071e3;
+    color: #fff;
+    border-radius: 980px;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    min-width: 23px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+a:hover,
+button:hover {
+    transform: scale(1.1);
+    transition-duration: 0.1s;
+}
+
+a:active,
+button:active {
+    transform: scale(0.95);
+    transition-duration: 0.1s;
+}
+
+
+
+button,
+.btn {
+    background-color: #77fff0;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    color: black;
+}
+
+button::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    width: 1rem;
+    height: 1rem;
+    transform: translate3d(-50%, -50%, 0) scale(0, 0);
+    border-radius: 50%;
+    background-color: rgba(85, 255, 0, 0.7);
+    transform-origin: center;
+    transition: ease-in-out .35s;
+}
+
+button:hover,
+.btn:hover {
+    transform: scale(1.03);
+}
+
+button:active,
+.btn:active {
+    transform: scale(0.97);
+}
+
+button:hover::before {
+    transform: translate3d(-50%, -50%, 0) scale(20, 20);
+}
+
+
+tr,
+td,
+th {
+    border: solid 0.5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+textarea {
+    resize: none;
+    width: 300px;
+    height: 100px;
+}
+
+.popup {
+    position: fixed;
+    width: 70%;
+    height: 70%;
+    left: 15%;
+    top: 15%;
+    z-index: 999;
+    background-color: bisque;
+    display: none;
+    border: 2px solid;
+    opacity: 95%;
+    border-radius: 3px;
+}
+
+.split {
+    height: 30px;
+}
+
+.close {
+    font-size: large;
+    border-radius: 30%;
+    background-color: red;
+    color: yellow;
+}
+
+.mini {
+    font-size: large;
+    border-radius: 30%;
+    background-color: rgb(4, 0, 255);
+    color: rgb(255, 255, 255);
+}
+
+.border {
+    border: 1px solid;
+    border-radius: 2%;
+}
+
+.topbut {
+    font-size: 35px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color: coral;
+    border-radius: 10%;
+}
+
+.disinfo {
+    background-color: antiquewhite;
+}
+
+.disinfo thead,
+th {
+    font-size: small;
+}
+
+.disinfo td {
+    font-size: large;
+}
+
+table.disinfo td {
+    font-size: large;
+}
+
+.changeinfo {
+    background-color: rgb(215, 250, 250);
+}
+
+.changeinfo td{
+    font-size: large;
+}
+
+#main {
+    background-color: rgba(255, 255, 255, 1);
+    width: 65%;
+    margin: auto;
+    padding: 2%;
+    border-radius: 7%;
+    -webkit-border-radius: 7%;
+    -moz-border-radius: 7%;
+    -ms-border-radius: 7%;
+    -o-border-radius: 7%;
+    border: 5px #cecece solid;
+}
+
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+table {
+    margin: auto;
+    width: 80%;
+}
+
+table * {
+    text-align: center;
+}
+
+table caption {
+    font-size: 1.45em;
+
+}
+
+img {
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    border: #cecece solid 3px;
+}
+
+h1 {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+.login-btn {
+    margin-left: 30%;
+    width: 40%;
+    margin-right: 30%;
+    font-size: x-large;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+footer {
+    margin-top: 30px;
+}
+
+.clearlog {
+    font-size: large;
+    background-color: rgb(255, 99, 99);
+}
+
+.logout {
+    font-size: large;
+    background-color: rgb(73, 241, 58);
+}
