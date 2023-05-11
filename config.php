@@ -13,10 +13,10 @@ $password = /*更改右侧引号内*/"123456";//登录密码
 //请更改上面
 
 //——数据库配置区域——请更改下面
-$dtbs_name = /*更改右侧引号内*/"38.93.247.25";//数据库IP
-$dtbs_usrname = /*更改右侧引号内*/"StateGridpost";//数据库账号——不推荐ROOT
-$dtbs_pswd = /*更改右侧引号内*/"123456";//数据库密码
-$dtbs_dtbs = /*更改右侧引号内*/"StateGridpost";
+$dtbs_name = /*更改右侧引号内*/"127.0.0.1";//数据库IP
+$dtbs_usrname = /*更改右侧引号内*/"Change me";//数据库账号——不推荐ROOT
+$dtbs_pswd = /*更改右侧引号内*/"Change me";//数据库密码
+$dtbs_dtbs = /*更改右侧引号内*/"Change me";
 //请更改上面
 
 ?>
