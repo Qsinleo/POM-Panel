@@ -10,6 +10,5 @@ try {
     makelog("连接数据库失败(".$th->getCode().")".$th->getMessage(),"ERROR","MYSQL");
     die("连接数据库失败。请检查您的配置，再试！（详细的错误信息，请于日志内查看。）");
 }
-mysqli_select_db($con,'StateGridpost');
 makelog("成功连接了数据库。",part:"MYSQL");
 ?>
