@@ -71,3 +71,15 @@
 [2023-05-11 06:53:50] [INFO] [MYSQL] 成功连接了数据库。
 [2023-05-11 06:53:50] [INFO] [main] 查询了语句SELECT * FROM `data_main`,`data_count`,`data_analyze` WHERE data_main.id = data_count.id and data_main.id = data_analyze.id
 [2023-05-11 06:53:50] [INFO] [main] 访客（IP为::1用电脑(Windows)访问了面板！
+[2024-02-22 09:35:43] [INFO] [main] 生成了日志！
+[2024-02-22 09:35:43] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
+[2024-02-22 09:39:31] [INFO] [main] 生成了日志！
+[2024-02-22 09:39:31] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
+[2024-02-22 09:47:20] [INFO] [main] 生成了日志！
+[2024-02-22 09:47:20] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
+[2024-02-22 09:50:55] [INFO] [main] 生成了日志！
+[2024-02-22 09:50:55] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
+[2024-02-23 11:14:52] [INFO] [main] 生成了日志！
+[2024-02-23 11:14:52] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
+[2024-02-23 11:14:53] [INFO] [main] 生成了日志！
+[2024-02-23 11:14:53] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
