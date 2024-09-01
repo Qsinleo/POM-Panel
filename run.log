@@ -83,3 +83,5 @@
 [2024-02-23 11:14:52] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
 [2024-02-23 11:14:53] [INFO] [main] 生成了日志！
 [2024-02-23 11:14:53] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)
+[2024-06-15 05:28:50] [INFO] [main] 生成了日志！
+[2024-06-15 05:28:50] [ERROR] [MYSQL] 连接数据库失败(1045)Access denied for user 'Change me'@'localhost' (using password: YES)

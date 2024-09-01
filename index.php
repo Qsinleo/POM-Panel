@@ -277,7 +277,7 @@ makelog("访客（IP为" . getip() . "用" . equipmentSystem() . "访问了面�
         <footer>
             <b>VERSION 1.0 </b>
             <small>
-                Made by <a href="https://bi2nb9o3.xyz" target="_blank">Bi2nb9o3</a> and <a href="https://leoministry.xyz" target="_blank">Leoministry</a>.Thanks for using.
+                Made by <a href="https://bi2nb9o3.xyz" target="_blank">Bi2nb9o3</a> and <a href="https://leom.fun" target="_blank">Leost</a>.Thanks for using.
             </small>
         </footer>
     </div>
